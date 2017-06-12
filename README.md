@@ -2,8 +2,8 @@
 
 ## Development Install
 
-.checkout Repo from Github
-.use `yarn install`
+...checkout Repo from Github
+...use `yarn install`
 
 
 ## Run Development
