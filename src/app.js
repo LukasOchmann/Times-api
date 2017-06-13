@@ -1,2 +1,3 @@
-import { argv } from 'optimist'
-console.log(argv);
+import write from './services/start'
+
+write("hallo")
